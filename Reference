@@ -1,12 +1,18 @@
-Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. arXiv preprint arXiv:1810.04805.
-Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Kaiser, Ł., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).
-Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Language Models are Few-Shot Learners. arXiv preprint arXiv:2005.14165.
-Raffel, C., Shinn, E., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Zettlemoyer, L. (2020). Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. Journal of Machine Learning Research, 21(140), 1-67.
-Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., ... & Wei, J. (2019). RoBERTa: A Robustly Optimized BERT Pretraining Approach. arXiv preprint arXiv:1907.11692.
-Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., ... & Zettlemoyer, L. (2020). BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension. arXiv preprint arXiv:1910.13461.
-Hugging Face. (2024). BERT Tokenizer Documentation. Retrieved from https://huggingface.co/docs/transformers/model_doc/bert
-Zhang, Y., & Liu, B. (2018). Deep Learning for Sentiment Analysis: A Survey. Wiley Encyclopedia of Operations Research and Management Science.
-Kingma, D. P., & Ba, J. (2015). Adam: A Method for Stochastic Optimization. arXiv preprint arXiv:1412.6980.
-Brownlee, J. (2020). Classification Cross-Entropy Loss Function for Machine Learning. Machine Learning Mastery.
-Bengio, Y. (2012). Practical Recommendations for Gradient-Based Training of Deep Architectures. In Neural Networks: Tricks of the Trade.
-Scikit-learn. (2024). Accuracy Score Documentation. Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
+J. Devlin, M. W. Chang, K. Lee, and K. Toutanova, "BERT: Pre-training of Deep Bidirectional Transformers for 
+Language Understanding," arXiv preprint arXiv:1810.04805, 2018.
+A. Vaswani et al., "Attention is all you need," in Advances in Neural Information Processing Systems, pp. 5998 -6008, 
+2017.
+T. B. Brown et al., "Language Models are Few-Shot Learners," arXiv preprint arXiv:2005.14165, 2020.
+C. Raffel et al., "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer," Journal of Machine 
+Learning Research, vol. 21, no. 140, pp. 1-67, 2020.
+Y. Liu et al., "RoBERTa: A Robustly Optimized BERT Pretraining Approach," arXiv preprint arXiv:1907.11692, 2019.
+Y. Zhang and B. Liu, "Deep Learning for Sentiment Analysis: A Survey," Wiley Encyclopedia of Operations Research 
+and Management Science, 2018.
+Hugging Face, "BERT Tokenizer Documentation," 2024. Available: 
+https://huggingface.co/docs/transformers/model_doc/bert
+M. Lewis et al., "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, 
+and Comprehension," arXiv preprint arXiv:1910.13461, 2020.
+D. P. Kingma and J. Ba, "Adam: A Method for Stochastic Optimization," arXiv preprint arXiv:1412.6980, 2015.
+J. Brownlee, "Classification Cross-Entropy Loss Function for Machine Learning," Machine Learning Mastery, 2020.
+Y. Bengio, "Practical Recommendations for Gradient-Based Training of Deep Architectures," in Neural Networks: 
+Tricks of the Trade, 2012
